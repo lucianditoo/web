@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus+SC&family=Press+Start+2P&display=swap');
+
+body, h1 {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: white;
+  background-image: url(../img/setup.jpg);
+  font-family: 'Marcellus SC', serif;
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 21px;
+}
+
+h3{
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+}
+
+
+h4 {
+  background-color: black;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+  width: 100%;
+  border: 3px solid black;
+  border-radius: 120px;
+}
+
+/* Selectores personalizados */
+
+.contenedor {
+  width: 45%;
+  background-color: rgb(150, 0, 150);
+  margin: 50px auto;
+  border: 5px solid black;
+  border-radius: 21px;
+  padding: 5px
+  margin: 0 auto;
+}
+
+.encabezado {
+color: white;
+padding: 20px;
+font-size: 21px;
+text-align: center;
+}
+
+.cuerpo {
+padding: 20px;
+font-size: 18px;
+}
+
+.tarjeta_setup {
+  word-spacing: 15px;
+  line-height: 30px;
+  text-align: center;
+}
+
+.pie {
+padding: 20px;
+text-align: center;
+}
+
+.fourK {
+  color: red;
+  text-align: center;
+  font-size: 30px;
+  background-image: url(../img/4kSetup.jpeg);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+  width: 800px;
+  height: 900px;
+  border: 3px solid black;
+  border-radius: 120px;
+}

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus+SC&family=Press+Start+2P&display=swap');
+
+body {
+  color: white;
+  background-color: rgb(155, 0, 0);
+  background-image: url(../img/wallpaper.jpg);
+  font-family: 'Marcellus SC', serif;
+}
+
+h3{
+  color: white;
+  background-color: rgb(225, 0, 0);
+  font-family: 'Press Start 2P', cursive;
+}
+
+h5{
+  background-color: rgb(200, 0, 0);
+}
+
+p {
+  background-color: rgb(175, 0, 0);
+}
+
+ul {
+  color: : white;
+  background-color: rgb(225, 0, 0);
+}
+
+/* Selectores personalizados */
+
+.tarjeta {
+  width: 30%;
+  background-color: rgb(255, 0, 0);
+  margin: 50px auto;
+  border: 5px solid black;
+  border-radius: 8px;
+  padding: 5px
+}
+
+img {
+  border: 2px solid black;
+  border-radius: 21px;
+}
